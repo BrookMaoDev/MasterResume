@@ -4,5 +4,5 @@ This repository contains my master resume, which showcases relevant software and
 
 The resume is available in two formats:
 
--   **MasterResume.docx**: Download and open with a word processor like Microsoft Word.
--   **MasterResume.pdf**: View the resume directly as a PDF document.
+-   **Brook_Mao_Resume.docx**: Download and open with a word processor like Microsoft Word.
+-   **Brook_Mao_Resume.pdf**: View the resume directly as a PDF document.
