@@ -1,0 +1,221 @@
+cv:
+    name: Brook Mao
+    location: Toronto, Canada
+    email: brook.mao@mail.utoronto.ca
+    social_networks:
+        - network: LinkedIn
+          username: brook-mao
+        - network: GitHub
+          username: BrookMaoDev
+    sections:
+        education:
+            - institution: University of Toronto
+              area: Computer Science
+              degree: Bachelor of Science
+              start_date: 2023-09
+              end_date: 2027-08
+              highlights:
+                  - "CGPA: 3.97/4.0"
+                  - "**Relevant Coursework:** Software Design, Numerical Algorithms, Computer Organization"
+
+        skills:
+            - bullet: Proficient in Python, JavaScript, TypeScript, Java, C, C++, and PHP, developing apps like ThreatTrace AI.
+            - bullet: Skilled at improving code by applying object-oriented design patterns from UofT’s Software Design course.
+            - bullet: Detailed in writing comprehensive automated tests for personal projects using testing frameworks like JUnit.
+            - bullet: Experienced in managing SQL and relational databases, building a profile management web app with MySQL.
+            - bullet: Familiar with NoSQL databases like MongoDB and Firebase, building apps like MultiClock.
+            - bullet: Familiar with DevOps, using Docker and GitHub Actions to set up CI/CD pipelines for 3 personal projects.
+            - bullet: Seasoned in cloud technologies, having deployed 3 apps on AWS, Azure, and GCP.
+            - bullet: Familiar with Windows PowerShell and Bash for automating tasks in 3+ personal projects.
+            - bullet: Comfortable in Linux/Unix environments, deploying a multiplayer chess clock web app on a Linux VM.
+            - bullet: Strong analytical skills, using Python libraries to analyze large datasets and generate reports, demonstrated through freeCodeCamp's data analysis certificate.
+            - bullet: Familiar with TensorFlow for building machine learning models, such as a malaria cell detection neural network.
+            - bullet: Skilled at implementing sleek user interfaces using HTML, CSS, and frontend libraries like React.
+            - bullet: Experienced in web and API development with technologies like Express, Node.js, and Flask.
+            - bullet: Experienced with Git version control and GitHub for collaboration across 4+ group projects.
+            - bullet: Proficient in Microsoft Office, using it for tracking membership information for the Agincourt Chess Club.
+            - bullet: Familiar with Agile development, leading a group of 6 as Scrum Master to develop an Android app.
+            - bullet: Strong communication skills from leading group meetings and working as a camp counselor.
+            - bullet: Effective collaborator and quick learner, excelling in team hackathons with tight deadlines.
+            - bullet: Clear written communication skills demonstrated through open source contributions to VSCode documentation.
+
+        projects:
+            - name: ThreatTrace AI
+              date: "[Link to Project](https://threattrace.brookmaodev.me/)"
+              highlights:
+                  - Collaborated in a team of 4 at Hack the Valley to develop a machine learning model using Python that classifies cell images as healthy or malaria parasitized with 95.45% accuracy, winning the Pulsar ML Challenge.
+                  - Coordinated tasks and clarified roles for teammates to deliver a working prototype within 36 hours.
+                  - Built the neural network using TensorFlow and trained it on a dataset of over 27,000 images, documenting the process in a Jupyter notebook.
+                  - Conducted data preprocessing on the training data and user-uploaded images to ensure model compatibility.
+                  - Deployed the model via a web app using HTML, CSS, Bootstrap, and JavaScript to create a sleek UI, and Flask to develop a REST API backend, allowing users to try the model out with their own images.
+                  - Set up a CI/CD pipeline with GitHub Actions, automating Docker image builds and deployments to GCP.
+
+            - name: Toronto Asian Art Museum Mobile App
+              date: "[Link to Project](https://github.com/BrookMaoDev/SoftwareDesignFinalProject)"
+              highlights:
+                  - Developed an Android app using Java and Firebase Realtime Database for efficient artifact management.
+                  - Led a team of 6 as Scrum Master, facilitating standups and sprint planning, and achieving a 10/10 peer evaluation score.
+                  - Troubleshot and resolved bugs for 3 team members, ensuring timely delivery of requirements.
+                  - Implemented an interactive UI by extending AndroidX fragments to create custom elements.
+                  - Applied object-oriented design patterns like Singleton and Adapter to write maintainable code.
+
+            - name: MultiClock
+              date: "[Link to Project](https://github.com/BrookMaoDev/MultiClock)"
+              highlights:
+                  - Developed a multiplayer chess clock web app using React, Node.js, Express, and MongoDB.
+                  - Designed a responsive UI to ensure the app works seamlessly on both desktop and mobile devices.
+                  - Deployed the app on AWS using a Linux VM, configuring NGINX as a reverse proxy with HTTPS encryption, making the app accessible for anyone to use securely.
+                  - Set up a CI/CD pipeline with GitHub Actions, automating Docker image builds and deployments to AWS.
+
+            - name: Portfoliify
+              date: "[Link to Project](https://portfoliify.brookmaodev.me/)"
+              highlights:
+                  - Developed a web app for creating and managing online profiles using PHP, MySQL, and JavaScript.
+                  - Designed a data model using relational databases, featuring 5 SQL tables to efficiently store user data.
+                  - Set up a CI/CD pipeline with GitHub Actions, automating Docker image builds and deployments to Azure.
+
+            - name: Python Data Analysis Projects
+              date: "[Link to Project](https://www.freecodecamp.org/certification/BrookMaoDev/data-analysis-with-python-v7)"
+              highlights:
+                  - Analyzed large datasets containing up to 70,000 data points using Python libraries like Pandas and Matplotlib.
+                  - Crafted clear and easy-to-understand reports visualizing data from 3 datasets, providing insights into FreeCodeCamp traffic, causes of cardiovascular disease, and global demographics.
+                  - Normalized and cleaned datasets by removing outliers to improve the accuracy of results.
+                  - Predicted future sea levels through statistical analysis of historical data with SciPy.
+
+            - name: 3D Rendering Engine
+              date: "[Link to Project](https://github.com/BrookMaoDev/3DRenderingEngine)"
+              highlights:
+                  - Built an object-oriented graphics program in C++ to render 3D shapes like cubes and pyramids.
+                  - Added zoom, pan, and rotation functionalities using linear algebra and other mathematical techniques.
+                  - Applied software design principles to ensure maintainability and future flexibility.
+                  - Used Makefiles to streamline the build process and conducted static code analysis with Cppcheck.
+
+            - name: Bridge Inspector Assignment Algorithm
+              highlights:
+                  - Analyzed a Government of Ontario dataset containing over 2,000 bridges using Python, focusing on metrics like Bridge Condition Index to develop an algorithm that assigns inspectors to the nearest, highest-risk bridges.
+                  - Wrote comprehensive automated tests, identifying and fixing bugs to achieve 100% program functionality.
+
+            - name: The Wildfire Network
+              date: "[Link to Project](https://github.com/BrookMaoDev/TheWildfireNetwork)"
+              highlights:
+                  - Collaborated remotely in a group of 3 on GitHub to develop a site featuring wildfire news, hotspots, and a risk prediction algorithm within 36 hours at Ignition Hacks.
+                  - Learned the Python Feedparser library on the fly to successfully extract and display real-time wildfire news from CBC RSS feeds on the homepage.
+
+            - name: Java Brokers
+              date: "[Link to Project](https://github.com/BrookMaoDev/JavaBrokersMobile)"
+              highlights:
+                  - Collaborated in a team of 3 to develop a stock trading simulator using Java, featuring user authentication and easy portfolio management.
+                  - Integrated real-time financial data using the Yahoo Finance API for the top 50 NASDAQ stocks.
+                  - Designed the software using UML diagrams and applied object-oriented principles to promote maintainability.
+
+            - name: The Wacky Store
+              highlights:
+                  - Developed a virtual store with a social network and product recommendation algorithm using C and data structures like linked lists, trees, and graphs.
+                  - Wrote comprehensive tests to verify program correctness and memory safety, achieving a 100% grade.
+
+            - name: Matrix Multiplication Calculator
+              date: "[Link to Project](https://github.com/BrookMaoDev/MatrixMultiplicationCalculator)"
+              highlights:
+                  - Implemented a matrix multiplication algorithm in C as a command-line app to perform fast computations.
+                  - Conducted static code analysis with Cppcheck to catch and fix buffer overflow bugs.
+
+        experience:
+            - company: Visual Studio Code
+              position: Open Source Contributor
+              location: Remote
+              start_date: 2024-03
+              end_date: 2024-04
+              highlights:
+                  - Shared ideas on GitHub Discussions and incorporated code review feedback from Microsoft engineers to successfully merge a pull request and resolve a backlog issue.
+                  - Clarified settings descriptions and updated the TypeScript codebase to improve the user experience.
+
+            - company: Meadowvale East Apostolic Church
+              position: Camp Counselor
+              location: Toronto, Canada
+              start_date: 2023-06
+              end_date: 2023-08
+              highlights:
+                  - Collaborated seamlessly with colleagues and contributed ideas in standups to enhance the camper experience.
+                  - Communicated effectively with parents to address questions and concerns, promptly resolving issues.
+
+            - company: Agincourt Chess Club
+              position: President
+              location: Toronto, Canada
+              start_date: 2022-09
+              end_date: 2023-09
+              highlights:
+                  - Effectively communicated with newcomers, leading to a 42% membership increase from 33 to 48.
+                  - Organized club documents, including permits and membership data, using Microsoft Office and Excel.
+
+design:
+    theme: engineeringresumes
+    font: Charter
+    font_size: 10pt
+    page_size: letterpaper
+    color: black
+    disable_external_link_icons: false
+    disable_page_numbering: true
+    page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+    disable_last_updated_date: true
+    last_updated_date_style: Last updated in TODAY
+    header_font_size: 25 pt
+    text_alignment: left-aligned
+    seperator_between_connections: $|$
+    use_icons_for_connections: false
+    margins:
+        page:
+            top: 2 cm
+            bottom: 2 cm
+            left: 2 cm
+            right: 2 cm
+        section_title:
+            top: 0.3 cm
+            bottom: 0.2 cm
+        entry_area:
+            left_and_right: 0 cm
+            vertical_between: 0.2 cm
+            date_and_location_width: 4.5 cm
+        highlights_area:
+            top: 0.10 cm
+            left: 0 cm
+            vertical_between_bullet_points: 0.10 cm
+        header:
+            vertical_between_name_and_connections: 5 pt
+            bottom: 5 pt
+            horizontal_between_connections: 10 pt
+
+locale_catalog:
+    phone_number_format: national
+    date_style: "MONTH_ABBREVIATION YEAR"
+    abbreviations_for_months:
+        - Jan
+        - Feb
+        - Mar
+        - Apr
+        - May
+        - Jun
+        - Jul
+        - Aug
+        - Sep
+        - Oct
+        - Nov
+        - Dec
+    full_names_of_months:
+        - January
+        - February
+        - March
+        - April
+        - May
+        - June
+        - July
+        - August
+        - September
+        - October
+        - November
+        - December
+    month: month
+    months: months
+    year: year
+    years: years
+    present: present
+    to: to
