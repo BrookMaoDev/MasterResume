@@ -18,22 +18,21 @@ cv:
                   - "CGPA: 3.97/4.0"
                   - "**Relevant Coursework:** Software Design, Numerical Algorithms, Computer Organization"
 
-        skills:
-            - bullet: Up to 4 years of programming experience in Python, JavaScript, TypeScript, Java, C, C++, and PHP.
-            - bullet: Experienced in managing SQL and relational databases, building a profile management web app with MySQL.
-            - bullet: Knowledgeable in DevOps, using Docker and GitHub Actions to set up CI/CD pipelines for 3 personal projects.
-            - bullet: Seasoned in cloud computing platforms, having deployed 3 apps on AWS, Azure, and GCP.
-            - bullet: Comfortable with using Windows PowerShell and Bash for automating tasks in 3+ personal projects.
-            - bullet: Comfortable in Linux/Unix environments, deploying a multiplayer chess clock web app on a Linux VM.
-            - bullet: Detail-oriented in quality assurance and automated testing using frameworks like JUnit and Jest.
-            - bullet: Strong analytical skills, using Python libraries to analyze large datasets and generate reports.
-            - bullet: Experienced in TensorFlow for building machine learning models, like a malaria cell detection neural network.
-            - bullet: Skilled at implementing sleek user interfaces using HTML, CSS, and frontend libraries like React.
-            - bullet: Experienced in web and API development with technologies like Express, Node.js, and Flask.
-            - bullet: Experienced with Git version control and GitHub for collaboration across 4+ group projects.
-            - bullet: Clear documentation skills demonstrated through open source contributions to VSCode documentation.
-            - bullet: Proficient in Microsoft Office, using it for tracking membership information for the Agincourt Chess Club.
-            - bullet: Strong interpersonal skills, leading an Agile team of 6 as Scrum Master to develop an Android app.
+        technologies:
+            - label: Programming Languages
+              details: Python, Java, SQL, JavaScript, TypeScript, C, C++, PHP
+            - label: Libraries & Frameworks
+              details: React, Node, Express, jQuery, Flask, Bootstrap, Tailwind, Jest, JUnit, Unittest
+            - label: Computer Science Fundamentals
+              details: Object-Oriented Programming, Data Structures, Algorithms
+            - label: Databases
+              details: MySQL, MongoDB, Firebase Realtime Database
+            - label: Tools, Platforms & DevOps
+              details: Git, Docker, GitHub Actions, AWS, GCP, Azure, Linux, NGINX, Firebase, CI/CD
+            - label: Machine Learning & Data Analysis
+              details: TensorFlow, Pandas, NumPy, Matplotlib, SciPy
+            - label: Soft Skills & Methodologies
+              details: Agile, Scrum, Communication, Teamwork, Problem-Solving, SDLC
 
         projects:
             - name: ThreatTrace AI
